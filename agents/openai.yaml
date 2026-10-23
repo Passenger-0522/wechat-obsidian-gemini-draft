@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat Obsidian Gemini Draft"
+  short_description: "Obsidian → Gemini polish → WeChat draft box"
+  default_prompt: "把这篇文字写进 Obsidian 主要来源，用 Gemini 润色后推到公众号草稿箱。"
